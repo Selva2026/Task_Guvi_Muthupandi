@@ -1,0 +1,300 @@
+.navcls{
+    margin: 0px;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+
+}
+    button:hover{
+    cursor: pointer;
+}
+
+.TB{
+
+    font-family: volkhov;
+
+}
+
+.menu{
+    font-family: poppins;
+}
+.disco{
+
+    border-color: #FA7436; 
+    background-color: white; 
+    color: #FA7436;
+     padding: 15px; 
+     border-radius: 5px;
+     font-family: poppins; 
+     font-size: 20px;
+    
+}
+.mkx{
+
+    height: 521px;
+    width: 486px;
+}
+.men{
+    font-family: poppins;
+    color: #FA7436;
+  font-weight: bold;
+    font-size: 17px;
+   
+}
+.navcls ul{
+    
+    display: flex;
+    list-style: none;
+
+   
+     
+}
+
+
+
+.navcls li{
+
+   
+    padding: 0px  20px;
+
+
+}
+
+.btn{
+    
+    background-color: #FA7436;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    
+    
+}
+.btn:hover{
+    cursor: pointer;
+   
+}
+
+.mkv{
+    display: flex;
+
+    
+
+}
+
+.bt:hover{
+    cursor: pointer;
+}
+.content{
+   
+   font-family: volkhov;
+    width: 521px;
+    height: 210px;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+
+.loc{
+    display: flex;
+    justify-content: space-between;
+    width: 841px;
+    height: 124px;
+    font-family: poppins ;
+    align-items: center;
+    
+
+}
+.loc p{
+    color: #666666;
+}
+
+
+
+.sec1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: volkhov;
+    font-size: 20px;
+}
+
+.sec2{
+   
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+}
+.sec2 div{
+  
+    width: 370px;
+    height: 278px;
+    background-color: #FFFFFF;
+    font-family: poppins;
+    font-size: 19px;
+    text-align: left;
+}
+.sec2 h3{
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.sec2 img{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.sec2 p{
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.sec{
+    background-color: #F7F8FC;
+    height: 724px;
+}
+
+.hd{
+    background-color: blanchedalmond;
+}
+
+.art1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.art2{
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-around;
+    /* background-color: lightgrey; */
+    
+
+
+}
+.art2 h5{
+    font-family: poppins;
+    font-size: 20px;
+   
+
+}
+.art2 p{
+    font-family: poppins;
+   
+}
+.artn1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.artn{
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.img1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.artn2{
+  display:flex;
+  justify-content: center;
+}
+
+.con1{
+    padding-top: 25px;
+    padding-left: 25px;
+  width: max-content;
+   
+    background-color: white;
+    border-radius: 10px;
+
+}
+.con1 h4{
+    font-family: poppins;
+}
+.con1 p{
+    font-family: poppins;
+}
+.bg{
+   background-color: #F7F8FC;
+    height: 596px;
+}
+.muthu{
+
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.final{
+    display: flex;
+   
+    justify-content: space-around;
+}
+
+li:hover{
+    cursor: pointer;
+}
+h3{
+    font-family: Poppins;
+}
+.abs{
+    position: relative;
+    
+}
+.abs div{
+    position: absolute;
+}
+.one{
+   z-index: 2;
+    top: 90px;
+    background-color:white;
+    border-radius: 10px;
+    width: 150px;
+    height: 66px;
+    color: black;
+   padding: 10px;
+    text-align: left;
+
+}
+.two{
+    z-index: 3;
+    top: 320px;
+    left: 50px;
+    background-color: rgb(253, 253, 253);
+    border-radius: 10px;
+    width: 192px;
+    height: 68px;
+    color: black;
+   padding: 10px;
+    text-align: left;
+
+}
+.three{
+    top: 210px;
+    z-index: 3;
+    left: 400px;
+    background-color: white;
+    border-radius: 10px;
+    width: 173px;
+    height: 74px;
+    color: black;
+   padding: 10px;
+    text-align: left;
+}
+p{
+    font-family: poppins;
+    font-size: 14px;
+    padding: 10px;
+}
+.ext1{
+    background-color:#F7F8FC ;
+}
